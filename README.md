@@ -1,14 +1,14 @@
-# Apex Portfolio - [Student Name]
+# Apex Portfolio - Avaneesh Gajula
 
-This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
+This repository contains my student portfolio for the Apex Cybersecurity Pathway. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 
-**[Open Portfolio](https://USERNAME.github.io/REPOSITORY-NAME/)**
+(https://github.com/Ibex240/Apex-Cybersecurity-Portfolio)
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to pursue a degree in Computer Science and begin a career in cybersercurity. I am interested in computer science, cybersecurity, networking, and computer engineering.
 
 ## Portfolio Contents
 
@@ -18,10 +18,11 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 ## Featured Skills
 
-- [Skill]
-- [Skill]
-- [Skill]
-- [Skill]
+- Java
+- Python
+- HTML
+- JavaScript
+- Burp Suite
 
 ## Privacy and Safety
 
