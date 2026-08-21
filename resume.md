@@ -14,15 +14,15 @@ agajula09@gmail.com
 
 ## Professional Summary
 
-**[Creative Computing / Cybersecurity]** student building experience in **[programming, networking, cybersecurity, system administration, interactive technology, physical computing, or another area]**. Demonstrates strengths in **[problem-solving, technical communication, collaboration, troubleshooting, design, or another strength]**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
+Cybersecurity student building experience in programming. Demonstrates strengths in problem-solving, technical communication, collaboration, troubleshooting, and design. Interested in pursuing an internship in cybersecurity.
 
 ## Skills
 
 ### Programming and Development
 
-- **Languages:** [Python, C, C++]
-- **Development tools:** [GitHub, Git, Visual Studio Code, Unreal Engine]
-- **Platforms:** [Linux, Windows, Arduino-compatible microcontrollers]
+- **Languages:** Java, Python
+- **Development tools:** GitHub, Git, Visual Studio Code, Eclipse IDE 
+- **Platforms:** Linux, Windows
 
 ### Cybersecurity and Networking
 

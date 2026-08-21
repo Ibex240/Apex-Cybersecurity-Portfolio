@@ -3,11 +3,11 @@
 /* This is the base Apex color palette, but you can change however you like. */
 
 :root {
-  --apex-navy: #0E395D;
-  --apex-blue: #66A0CB;
+  --apex-navy: 	#363737;
+  --apex-blue: #5b5c5b;
 
-  --apex-blue-light: #E8F2F9;
-  --apex-blue-lighter: #F4F8FB;
+  --apex-blue-light: 	#828582;
+  --apex-blue-lighter: #acafab;
 
   --text-color: #222222;
   --muted-text: #5F6870;
