@@ -15,15 +15,15 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### CS Workstation
+<p class="artifact-meta">[Workstation] | [August 2026]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+Assembled a personal workstation. Includes a laptop, docking port, and monitor. Had to ensure all three systems were connected in the most efficient way possible while ensuring good cable management practices.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Organization</span>
 
 [View Artifact](artifacts/ARTIFACT-FOLDER/)
 
