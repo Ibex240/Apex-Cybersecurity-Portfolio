@@ -3,11 +3,11 @@ layout: default
 title: Resume
 ---
 
-# [Student Name]
+# Avaneesh Gajula
 
-[City, State]  
-[School-approved or professional email]  
-[GitHub profile link]  
+Superior, CO
+agajula09@gmail.com
+(https://github.com/Ibex240
 [Portfolio and/or LinkedIn link]
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
