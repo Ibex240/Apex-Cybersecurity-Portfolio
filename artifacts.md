@@ -5,7 +5,7 @@ title: Artifacts
 
 # Portfolio Artifacts
 
-This page contains selected examples of my work from the Apex [Creative Computing / Cybersecurity] Pathway.
+This page contains selected examples of my work from the Apex Cybersecurity Pathway.
 
 Each artifact demonstrates technical skills, problem-solving, communication, collaboration, or growth. Click an artifact name to view the full artifact page.
 
@@ -15,17 +15,17 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### CS Workstation
-<p class="artifact-meta">[Workstation] | [August 2026]</p>
+### CS Workstation and Rack Setup
+<p class="artifact-meta">Image | August 2026</p>
 
 Assembled a personal workstation. Includes a laptop, docking port, and monitor. Had to ensure all three systems were connected in the most efficient way possible while ensuring good cable management practices.
 
 **Skills demonstrated:**
 
 <span class="skill-tag">Collaboration</span>
-<span class="skill-tag">Organization</span>
+<span class="skill-tag">Responsibility & Reliability</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/workstation/)
 
 </div>
 
