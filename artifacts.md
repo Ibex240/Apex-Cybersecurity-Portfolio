@@ -31,24 +31,24 @@ Assembled a personal workstation. Includes a laptop, docking port, and monitor. 
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Three Lenses Field Guide
+<p class="artifact-meta">Image| August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+Short pamphlet detailing the three lenses of cybersecurity. 
 
 **Skills demonstrated:**
 
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/TLFG)
 
 </div>
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Network Rack Diagram
+<p class="artifact-meta">Diagram | 09 2026</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
