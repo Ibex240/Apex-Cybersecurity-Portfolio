@@ -13,7 +13,7 @@ title: Artifact Name
 
 **Project:** CS Lab and Rack Setup
 
-**My role:** Poster detailing the three lenses of cybersecurity.
+**My role:** Made a Three-Lense Field Guide flyer
 
 
 ## The Artifact
@@ -37,7 +37,7 @@ title: Artifact Name
 
 ## What I Learned
 
-I learned how to properly manage cables to ensure you have a neat and efficient workstation. I also learned how to assemble a server rack correctly.
+I learned the elements of the CIA triad, the three components of cybersecurity(IA, security, networking) and their respective definitions.
 ---
 
 [Return to All Artifacts]({{ '/artifacts.html' | relative_url }})

@@ -9,7 +9,7 @@ title: Artifact Name
 
 ## Summary
 
-[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
+A workstation with a laptop, monitor, docking port, keyboard, and mouse. A network rack for our LAN. 
 
 **Project:** CS Lab and Rack Setup
 
