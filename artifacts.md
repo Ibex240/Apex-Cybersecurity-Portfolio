@@ -38,8 +38,8 @@ Short pamphlet detailing the three lenses of cybersecurity.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Responsibility</span>
+<span class="skill-tag">Reliability</span>
 
 [View Artifact](artifacts/TLFG)
 
@@ -54,10 +54,10 @@ Short pamphlet detailing the three lenses of cybersecurity.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Responsibility</span>
+<span class="skill-tag">Reliability</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/NetworkRackDiagram/)
 
 </div>
 

@@ -8,7 +8,7 @@ This repository contains my student portfolio for the Apex Cybersecurity Pathway
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to pursue a degree in Computer Science and begin a career in cybersercurity. I am interested in computer science, cybersecurity, networking, and computer engineering.
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to pursue a degree in Computer Science and begin a career in cybersecurity. I am interested in computer science, cybersecurity, networking, and computer engineering.
 
 ## Portfolio Contents
 
