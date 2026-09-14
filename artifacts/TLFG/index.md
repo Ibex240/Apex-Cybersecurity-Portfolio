@@ -5,7 +5,7 @@ title: Artifact Name
 
 # Three Lens Field Guide
 
-<p class="artifact-meta">Image | [Month Year]</p>
+<p class="artifact-meta">Image | 09 2026</p>
 
 ## Summary
 

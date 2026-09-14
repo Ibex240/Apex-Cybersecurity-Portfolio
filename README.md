@@ -39,6 +39,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
-- **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **GitHub:** [@Ibex240](https://github.com/Ibex240)
+- **LinkedIn:** [https://www.linkedin.com/in/avaneesh-gajula-594246338/](https://www.linkedin.com/in/avaneesh-gajula-594246338/)
+- **Email:** agajula09@gmail.com
