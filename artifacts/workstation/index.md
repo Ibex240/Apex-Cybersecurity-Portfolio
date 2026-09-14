@@ -24,7 +24,7 @@ A workstation with a laptop, monitor, docking port, keyboard, and mouse. A netwo
 ![Photo of Artifact](server_rack2.jpg)
 
 
-[View the full artifact](LINK-TO-ARTIFACT)
+
 
 ## Skills Demonstrated
 

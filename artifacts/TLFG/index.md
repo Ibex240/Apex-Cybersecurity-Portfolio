@@ -23,7 +23,7 @@ title: Artifact Name
 
 
 
-[View the full artifact](LINK-TO-ARTIFACT)
+
 
 ## Skills Demonstrated
 

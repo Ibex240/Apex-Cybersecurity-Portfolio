@@ -30,7 +30,7 @@ Changes after review by network engineer:
 
 
 
-[View the full artifact](LINK-TO-ARTIFACT)
+
 
 ## Skills Demonstrated
 
