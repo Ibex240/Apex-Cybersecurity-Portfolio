@@ -50,7 +50,7 @@ Short pamphlet detailing the three lenses of cybersecurity.
 ### Network Rack Diagram
 <p class="artifact-meta">Diagram | 09 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+A diagram with my proposed layout for our network rack.
 
 **Skills demonstrated:**
 
