@@ -5,8 +5,7 @@ This repository contains my student portfolio for the Apex Cybersecurity Pathway
 ## Portfolio
 
 
-{https://ibex240.github.io/Apex-Cybersecurity-Portfolio/}
-(https://ibex240.github.io/Apex-Cybersecurity-Portfolio/)
+[https://ibex240.github.io/Apex-Cybersecurity-Portfolio/](https://ibex240.github.io/Apex-Cybersecurity-Portfolio/)
 
 ## About Me
 
