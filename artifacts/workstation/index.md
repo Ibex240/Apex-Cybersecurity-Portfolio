@@ -5,7 +5,7 @@ title: Artifact Name
 
 # CS Lab and Rack
 
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">Image | 08 2026</p>
 
 ## Summary
 
