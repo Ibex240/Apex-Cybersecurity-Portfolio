@@ -11,7 +11,7 @@ title: Artifact Name
 
 
 
-**Project:** CS Lab and Rack Setup
+**Project:** Three Lens Field Guide Pamphlet
 
 **My role:** Made a Three-Lense Field Guide flyer
 
@@ -27,7 +27,7 @@ title: Artifact Name
 
 ## Skills Demonstrated
 
-<span class="skill-tag">collaboration</span>
+<span class="skill-tag">Key Terms & Concepts</span>
 <span class="skill-tag">Responsibility & Reliability</span>
 
 
