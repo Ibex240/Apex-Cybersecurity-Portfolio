@@ -26,7 +26,12 @@ Changes after review by network engineer:
 ## The Artifact
 
 
-[Risk Management Lab Link](file:///M:/Copy%20of%20Risk%20Mitigation%20Brief%2l-tag">collaboration)</span>
+[Risk Management Lab Link](file:///M:/Copy%20of%20Risk%20Mitigation%20Brief%20-%20Google%20Docs.pdf)
+
+
+## Skills Demonstrated
+
+<span class="skill-tag">Key Terms & Concepts</span>
 <span class="skill-tag">Responsibility & Reliability</span>
 
 
