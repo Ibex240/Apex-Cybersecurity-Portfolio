@@ -26,7 +26,7 @@ Changes after review by network engineer:
 ## The Artifact
 
 
-![Photo of Artifact](RML.pdf)
+![Photo of Artifact][file:///M:/Copy%20of%20Risk%20Mitigation%20Brief%20-%20Google%20Docs.pdf]
 
 
 
