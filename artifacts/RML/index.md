@@ -26,7 +26,7 @@ Changes after review by network engineer:
 ## The Artifact
 
 
-[file:///M:/Copy%20of%20Risk%20Mitigation%20Brief%20-%20Google%20Docs.pdf]
+[Risk Management Lab Link](file:///M:/Copy%20of%20Risk%20Mitigation%20Brief%20-%20Google%20Docs.pdf)
 
 
 
