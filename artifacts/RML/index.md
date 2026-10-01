@@ -10,17 +10,15 @@ title: Artifact Name
 ## Summary
 
 
-This project required to design a layout proposal for our class's network rack. Attached is the diagram illustrating what I believe to be the optimal layout for our network rack.
-
-Changes after review by network engineer:
-    - Move server to eye level(29U) for easier access for maintenance and protection from flooding.
-    - Move Router up for visual hardware separation
+Evaluated the risk management methodologies utilized by real companies to prevent cyber attacks.
 
 
 
-**Project:** Network Rack Diagram
 
-**My role:** Developed a network rack diagram
+
+**Project:** Risk Management Lab
+
+**My role:** Did the lab
 
 
 ## The Artifact
@@ -41,7 +39,7 @@ Changes after review by network engineer:
 
 ## What I Learned
 
-I learned about the components that go into a network rack and why their positioning on the rack is important into creating the most functional and efficient network rack possible.
+I learned about the methods companies use to ensure their data, assets, and finances are secure from cyber threats.
 ---
 
 [Return to All Artifacts]({{ '/artifacts.html' | relative_url }})
