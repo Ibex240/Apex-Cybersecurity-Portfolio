@@ -25,7 +25,7 @@ Evaluated the risk management methodologies utilized by real companies to preven
 
 
 
-<object data="./risk-mitigation-brief.pdf" type="application/pdf" width="100%" height="600px">
+<object data="./RML.pdf" type="application/pdf" width="100%" height="600px">
     <p>Your browser does not support PDFs. <a href="./RML.pdf">Download the PDF instead</a>.</p>
 </object>
 
